@@ -1,0 +1,34 @@
+.text{
+	text-align: center;
+	position: relative;
+	left: 35%;
+	background-color: rgba(0, 0, 0, 0.4);
+	color: #ffffff;
+	width: 400px;
+	border-radius: 8px;
+}
+.magic{
+	position: relative;
+	left: 43%;
+	height: 10px;
+}
+input{
+	height: 80px;
+	width: 80px;
+	border-style: none;
+	border-radius: 10px;
+}
+button{
+	position: relative;
+	left: 1%;
+	height: 50px;
+	border-style: none;
+	border-radius: 8px;
+	background-color: #AC3CE8;
+	font-size: 150%;
+	font-family: 'Lobster', cursive;
+	color: #ffffff;
+}
+body{
+	background-image: linear-gradient(to right, left, right);
+}
